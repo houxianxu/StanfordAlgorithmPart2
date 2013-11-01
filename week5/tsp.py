@@ -1,8 +1,8 @@
-# Programming Assignment #4
-# https://class.coursera.org/algo2-002/quiz/attempt?quiz_id=93
-# the key idea is to solving TSP by heuristic: Greedy + Randomization
-# check "https://class.coursera.org/algo2-002/forum/thread?thread_id=379" for details
-# the run time is O(n**2), which is awesome!
+# Programming Assignment #5
+# https://class.coursera.org/algo2-002/quiz/attempt?quiz_id=97
+# the key idea is to solving TSP by reducing to SCC
+# https://class.coursera.org/algo2-002/forum/thread?thread_id=428
+
 
 import math
 import sys
